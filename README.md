@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Philweix
-- 👀 I’m interested in VUE
-- 🌱 I’m currently learning Three.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Philweix.
+- 🌱 I am a web3D development engineer.
+- 👀 I’m interested in THREE.JS and VUE.
 - 📫 How to reach me 2221982202@qq.com
 
 <!---
